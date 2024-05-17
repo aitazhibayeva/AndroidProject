@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_analytics"
+        android:title="Analytics"
+        android:icon="@drawable/analytics"
+        />
+    <item
+        android:id="@+id/nav_list"
+        android:title="List"
+        android:icon="@drawable/list"
+        />
+    <item
+        android:id="@+id/nav_add"
+        android:title="Add"
+        android:icon="@drawable/add"
+        />
+    <item
+        android:id="@+id/nav_news"
+        android:title="News"
+        android:icon="@drawable/news"
+        />
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/settings"
+        />
+
+
+</menu>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "206706354643",
+    "project_id": "android-project-2dacd",
+    "storage_bucket": "android-project-2dacd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206706354643:android:0830be99f5ae102189e726",
+        "android_client_info": {
+          "package_name": "com.example.moneytrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfSWXF40ZbgQ2vTq2Ca14YCNcfdzOj4dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
